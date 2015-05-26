@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.codepath.apps.mysimpletweets.TimelineActivity">
+
+    <item
+        android:id="@+id/miCreateTweet"
+        android:title="Create Tweet"
+        android:icon="@drawable/ic_create_tweet"
+        app:showAsAction="always"
+        />
+</menu>
